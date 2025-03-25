@@ -3,7 +3,7 @@ site_url: https://test.example
 theme:
   name: material
   font:
-    text: Merriweather
+    text: Comic Neue
     code: WindSong
   palette: 
     # Palette toggle for light mode
