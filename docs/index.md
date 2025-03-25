@@ -8,8 +8,9 @@ Welcome! This documentation will guide you through the process of creating an in
 
 ## Intended Users
 This documentation is targeted towards the following users:
+
 * 1st year Computer Systems Technology (CST) students in their 1st term
-* Beginner developers looking to design an application
+* Beginner developers looking to design an application  
 
 ## Prequisite Knowledge
 
