@@ -7,11 +7,9 @@ Welcome! This documentation will guide you through the process of creating an in
 
 
 ## Intended Users
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+This documentation is targeted towards the following users:
+* 1st year Computer Systems Technology (CST) students in their 1st term
+* Beginner developers looking to design an application
 
 ## Prequisite Knowledge
 
