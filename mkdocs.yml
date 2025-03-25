@@ -3,17 +3,21 @@ site_url: https://test.example
 theme:
   name: material
   font:
-    text: Comic Neue
-    code: WindSong
+    text: Roboto
+    code: Source Code Pro
   palette: 
-    # Palette toggle for light mode
+    # Palette toggle for light mode'
     - scheme: default
+      primary: lime
+      accent: green
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
 
     # Palette toggle for dark mode
     - scheme: slate
+      primary: deep orange
+      accent: light blue
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
