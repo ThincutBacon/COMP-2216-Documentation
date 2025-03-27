@@ -12,12 +12,12 @@ This documentation is targeted towards the following users:
 * 1st year Computer Systems Technology (CST) students in their 1st term
 * Beginner developers looking to design an application  
 
+
 ## Prequisite Knowledge
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* Basic computer manipulation using a keyboard and mouse
+* A general idea of the functions your application would have
+
 
 ## Software Requirements
 
