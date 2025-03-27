@@ -13,7 +13,7 @@ This documentation is targeted towards the following users:
 * Beginner developers looking to design an application  
 
 
-## Prequisite Knowledge
+## Prerequisite Knowledge
 
 * Basic computer manipulation using a keyboard and mouse
 * A general idea of the functions your application would have
