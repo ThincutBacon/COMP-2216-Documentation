@@ -23,9 +23,9 @@ We will learn how to use tools in Figma to manipulate your workspace catered tow
     - Scale Tool: `Shift + S`
 
 1. **Move Tool**:
-    1. Select an item within your workspace
+    - Select an item within your workspace
     ![Move tool on toolbar](./images/movetool.png)
-    2. Drag the selected item to reposition it somewhere else in your workspace.
+    - Drag the selected item to reposition it somewhere else in your workspace.
     ![click item to move](./images/clickmove.png)
     ![Drag item to move](./images/dragmove.png)
 
