@@ -56,11 +56,12 @@ In your dashboard, locate and **Click** [+ Create] → [Design file]. Doing so w
 ## Take a Look
 
 Now that you have successfully created your new project, let's first take a look around. You should be able to see the following:  
-* The Toolbar (Bottom Bar) 
-* Your Pages (Left Panel)
-* The Design and Prototype Tabs (Right Panel)
+
+* The Toolbar (Bottom Bar)  
+* Your Pages (Left Panel)  
+* The Design and Prototype Tabs (Right Panel)  
 * The Figma Logo Dropdown (Top-Right Corner)  
-* The Share Button (Top-Left Corner) 
+* The Share Button (Top-Left Corner)  
 
 !!! info "Going Back to Your Dashboard"
     To go back to your dashboard, **Click** the [Figma Logo] → [Back to files].  
@@ -93,9 +94,10 @@ Once you have selected the frame tool, look to the the panel on your right. You 
 ## Conclusion
 
 By the end of this section you will have successfully learned to:  
-* Create a new team.
-* Create a new project file.
-* Set-up your frame.
+
+* Create a new team.  
+* Create a new project file.  
+* Set-up your frame.  
 
 Great work!
 
