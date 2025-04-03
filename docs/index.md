@@ -41,9 +41,7 @@ These instructions use the following typographic conventions:
 | Type                   | Description                                                         | Examples                       |
 | :--------------------- | :------------------------------------------------------------------ | :----------------------------- |
 | Commands & Actions     | Bolded verbs are commands or actions you will be asked to perform.  | **Click, Type, Open, Select**  |
-| Menu & Button Sequence | Menu and button navigation sequences are shown using square brackets and the → symbol | [File] → [Open Folder] → [Select Project File]
-
-Menu & Button Sequence: Menu and Buttons are enclosed with square brackets. The → symbol indicates the flow of menu or button click actions.	[Students] → [Higher Education] → [Start diagramming]
+| Menu & Button Sequence | Menu and button navigation sequences are shown using square brackets and the → symbol | [File] → [Open Folder] → [Select Project File] |
 
 
 ## Notes and Warning Messages
