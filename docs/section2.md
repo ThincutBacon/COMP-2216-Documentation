@@ -53,8 +53,6 @@ We will learn how to use tools in Figma to manipulate your workspace catered tow
 !!! info "Click the dropdown arrow beside the rectangle tool to access additional shape options (i.e. polygon, ellipse)"
     Follow similar steps above to customize these shapes.
 
-
-
 ## Conclusion
 By the en of this section you will have successfully learned to:
 - [x] Navigate Figma Design's workspace.
