@@ -7,11 +7,18 @@ nav:
   - Prototyping: section3.md
   - Troubleshooting: troubleshooting.md
   - Glossary: glossary.md
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 theme:
   name: material
   font:
     text: Roboto
     code: Source Code Pro
+  icon:
+    admonition:
+      <type>: <icon>
   palette: 
     # Palette toggle for light mode'
     - scheme: default
@@ -28,8 +35,3 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-
-markdown_extensions:
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
