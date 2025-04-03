@@ -12,5 +12,24 @@ Observe the toolbar located at the bottom of the screen in the Figma workspace. 
 
 
 ## Manipulating the Workspace
+We will learn how to use tools in Figma to manipulate your workspace catered towards your devices. 
+
+**Move Tool**`V`:
+1. Select an item within your workspace
+2. Drag the selected item to reposition it somewhere else in your workspace.
+
+**Hand Tool**`H`:
+- Mouse: Use the Hand Tool to drag your camera view across the workspace. Hold down the middle mouse button to activate the tool.
+- Touchpad: Tap and drag using two fingers to pan across the workspace.
+
+**Zooming**:
+- Mouse: Scroll the mouse wheel to zoom in or out.
+- Touchpad: Pinch outwards to zoom in and pinch inwards to zoom out. 
+
+> ℹ️ **Keyboard Shortcuts**
+> - *Move Tool*: `V`
+> - *Hand Tool*: `H`
+> - *Zoom In/Out*: `Ctrl + +/-` (Windows) or `Cmd + +/-` (Mac)
+
 
 ## Scaling Items
