@@ -1,5 +1,5 @@
 site_name: Figma Documentation
-site_url: https://test.example
+site_url: https://thincutbacon.github.io/COMP-2216-Documentation/
 nav: 
   - Home: index.md
   - Set Up Project: section1.md
