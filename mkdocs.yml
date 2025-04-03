@@ -1,6 +1,7 @@
 site_name: Figma Documentation
 site_url: https://test.example
 markdown_extensions:
+  - tables
   - admonition
   - pymdownx.details
   - pymdownx.superfences
