@@ -14,6 +14,12 @@ Observe the toolbar located at the bottom of the screen in the Figma workspace. 
 ## Manipulating the Workspace
 We will learn how to use tools in Figma to manipulate your workspace catered towards your devices. 
 
+!!! info inline end "Keyboard Shortcuts"
+    - *Move Tool*: `V`
+    - *Hand Tool*: `H`
+    - *Zoom In/Out*: `Ctrl + +/-` (Windows) or `Cmd + +/-` (Mac)
+    - *Scale Tool*: `Shift + S`
+
 1. **Move Tool**:
     1. Select an item within your workspace
     2. Drag the selected item to reposition it somewhere else in your workspace.
@@ -30,15 +36,7 @@ We will learn how to use tools in Figma to manipulate your workspace catered tow
     - Select the item to resize and activate the Scale tool. 
     - Drag corners to adjust the size
 
-    > ℹ️ **Hold `Shift` to maintain proportions during scaling**
-
-
-> ℹ️ **Keyboard Shortcuts**
-> - *Move Tool*: `V`
-> - *Hand Tool*: `H`
-> - *Zoom In/Out*: `Ctrl + +/-` (Windows) or `Cmd + +/-` (Mac)
-> - *Scale Tool*: `Shift + S`
-
+    !!! info inline end "Hold `Shift` to maintain proportions during scaling"
 
 ## Creating a Shape
 1. Click the Rectangle Tool from the toolbar.
