@@ -14,7 +14,7 @@ Observe the toolbar located at the bottom of the screen in the Figma workspace. 
 ## Manipulating the Workspace
 We will learn how to use tools in Figma to manipulate your workspace catered towards your devices. 
 
-!!! info inline end "Keyboard Shortcuts"
+!!! info "Keyboard Shortcuts"
     - Move Tool: `V`
     - Hand Tool: `H`
     - Zoom In/Out: `Ctrl + +/-` (Windows) or  `Cmd + +/-` (Mac)
@@ -36,7 +36,7 @@ We will learn how to use tools in Figma to manipulate your workspace catered tow
     - Select the item to resize and activate the Scale tool. 
     - Drag corners to adjust the size
 
-!!! info inline end "Shortcut"
+!!! info "Shortcut for squares!"
     Hold `Shift` to maintain proportions during scaling
 
 ## Creating a Shape
@@ -54,9 +54,9 @@ We will learn how to use tools in Figma to manipulate your workspace catered tow
 
 ## Conclusion
 By the end of this section you will have successfully learned to:
-- [x] Navigate Figma Design's workspace.
-- [x] Create and style elements.
-- [x] Manipulate assets.
+- Navigate Figma Design's workspace.
+- Create and style elements.
+- Manipulate assets.
 
 Great work!
 
