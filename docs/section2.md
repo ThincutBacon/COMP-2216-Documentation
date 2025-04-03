@@ -6,6 +6,8 @@ This section will focus on the implementation of Figma's tools to design and man
 ## Navigating the Toolbar
 Observe the toolbar located at the bottom of the screen in the Figma workspace. The toolbar contains groups of useful tools for designing.
 
+![Groups in toolbar](./images/toolbar.png)
+
 1. The first group includes tools to manipulate the workspace
 
 2. The second group contains tools for creating and customizing design elements.
@@ -21,10 +23,14 @@ We will learn how to use tools in Figma to manipulate your workspace catered tow
     - Scale Tool: `Shift + S`
 
 1. **Move Tool**:
-    1. Select an item within your workspace
-    2. Drag the selected item to reposition it somewhere else in your workspace.
+    - Select an item within your workspace
+    ![Move tool on toolbar](./images/movetool.png)
+    - Drag the selected item to reposition it somewhere else in your workspace.
+    ![click item to move](./images/clickmove.png)
+    ![Drag item to move](./images/dragmove.png)
 
 2. **Hand Tool**:
+    - ![Hand tool](./images/handtool.png)
     - Mouse: Use the Hand Tool to drag your camera view across the workspace. Hold down the middle mouse button to activate the tool.
     - Touchpad: Tap and drag using two fingers to pan across the workspace.
 
@@ -33,8 +39,11 @@ We will learn how to use tools in Figma to manipulate your workspace catered tow
     - Touchpad: Pinch outwards to zoom in and pinch inwards to zoom out. 
 
 4. **Scaling Items**:
+    - ![Scale tool](./images/scaletool.png)
     - Select the item to resize and activate the Scale tool. 
+    ![Select item](./images/scalenot.png)
     - Drag corners to adjust the size
+    ![Drag corner item](./images/scaleup.png)
 
 !!! info "Shortcut for squares!"
     Hold `Shift` to maintain proportions during scaling
@@ -58,5 +67,6 @@ By the end of this section you will have successfully learned to:
 - Create and style elements.
 - Manipulate assets.
 
-Great work!
+!!! success "Success"
+    Great work! Now you can move on to the next section, Prototyping! You will learn all the basics to excel in prototyping design!
 
