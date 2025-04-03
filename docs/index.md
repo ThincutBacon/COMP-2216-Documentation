@@ -22,7 +22,7 @@ This documentation is targeted towards the following users:
 
 ## Software Requirements
 
-* A basic browser that is up to date
+* Access to browser of your choice that is up to date
 
 
 ## Procedure Overview
