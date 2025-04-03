@@ -6,6 +6,8 @@ This section will focus on the implementation of Figma's tools to design and man
 ## Navigating the Toolbar
 Observe the toolbar located at the bottom of the screen in the Figma workspace. The toolbar contains groups of useful tools for designing.
 
+![Groups in toolbar](./images/toolbar.png)
+
 1. The first group includes tools to manipulate the workspace
 
 2. The second group contains tools for creating and customizing design elements.
@@ -22,6 +24,7 @@ We will learn how to use tools in Figma to manipulate your workspace catered tow
 
 1. **Move Tool**:
     1. Select an item within your workspace
+    ![Move tool on toolbar](./images/movetool.png)
     2. Drag the selected item to reposition it somewhere else in your workspace.
 
 2. **Hand Tool**:
