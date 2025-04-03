@@ -29,11 +29,11 @@ To create a new team, look to the left-hand side of your screen and **Click** [U
     If you are struggling to find the drop-down menu, see the following:  
     ![Team selection dropdown]( "Team selection dropdown")
 
-After you click [+ Create new], you will be redirected to the Step 1 of the team creation page. Simply **Type** in your team name and **Click** [Create Team] to go to Step 2.
+1. After you click [+ Create new], you will be redirected to the Step 1 of the team creation page. Simply **Type** in your team name and **Click** [Create Team] to go to Step 2.
 
-In Step 2, you will be able to add the email addresses of your collaborators. If you do not have anyone to add at the moment, simple **Click** [Skip for now]. Otherwise, **Type** in however many emails and **Click** [Continue] to move onto Step 3.
+2. In Step 2, you will be able to add the email addresses of your collaborators. If you do not have anyone to add at the moment, simple **Click** [Skip for now]. Otherwise, **Type** in however many emails and **Click** [Continue] to move onto Step 3.
 
-In Step 3 you will be asked to choose your team plan. We will be selecting the free Starter plan. **Click** [Choose Starter] and finish making your team.
+3. In Step 3 you will be asked to choose your team plan. We will be selecting the free Starter plan. **Click** [Choose Starter] and finish making your team.
 
 
 !!! success "New Team Folder"
