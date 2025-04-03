@@ -41,7 +41,9 @@ We will learn how to use tools in Figma to manipulate your workspace catered tow
 4. **Scaling Items**:
     - ![Scale tool](./images/scaletool.png)
     - Select the item to resize and activate the Scale tool. 
+    ![Select item](./images/scalenot.png)
     - Drag corners to adjust the size
+    ![Drag corner item](./images/scaleup.png)
 
 !!! info "Shortcut for squares!"
     Hold `Shift` to maintain proportions during scaling
