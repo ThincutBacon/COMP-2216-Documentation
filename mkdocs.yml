@@ -1,10 +1,5 @@
 site_name: Figma Documentation
-site_url: https://test.example
-markdown_extensions:
-  - tables
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
+site_url: https://thincutbacon.github.io/COMP-2216-Documentation/
 nav: 
   - Home: index.md
   - Set Up Project: section1.md
@@ -12,6 +7,11 @@ nav:
   - Prototyping: section3.md
   - Troubleshooting: troubleshooting.md
   - Glossary: glossary.md
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 theme:
   name: material
   font:
