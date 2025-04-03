@@ -49,8 +49,8 @@ We will learn how to use tools in Figma to manipulate your workspace catered tow
     - change the fill colour,
     - Apply strokes or outlines to the shape,
     - Add effects.
-> ℹ️ **Click the dropdown arrow beside the rectangle tool to access additional shape options *(i.e. polygon, ellipse)***
-> Follow similar steps above to customize these shapes.
+!!! info "Click the dropdown arrow beside the rectangle tool to access additional shape options *(i.e. polygon, ellipse)" 
+    Follow similar steps above to customize these shapes.
 
 ## Conclusion
 By the en of this section you will have successfully learned to:
