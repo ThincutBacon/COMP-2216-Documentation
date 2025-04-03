@@ -7,6 +7,7 @@ Welcome! This documentation will guide you through the process of creating an in
 
 
 ## Intended Users
+
 This documentation is targeted towards the following users:
 
 * 1st year Computer Systems Technology (CST) students in their 1st term
@@ -21,12 +22,42 @@ This documentation is targeted towards the following users:
 
 ## Software Requirements
 
+* A basic browser that is up to date
+
 
 ## Procedure Overview
+
+The main sections of this documentation are as follows:  
+
+* Setting up a new project  
+* Drawing elements and creating assets  
+* Creating a prototype  
 
 
 ## Typographical Conventions
 
+These instructions use the following typographic conventions:
+
+| Type                   | Description                                                         | Examples                       |
+| :--------------------- | :------------------------------------------------------------------ | :----------------------------- |
+| Commands & Actions     | Bolded verbs are commands or actions you will be asked to perform.  | **Click, Type, Open, Select**  |
+| Menu & Button Sequence | Menu and button navigation sequences are shown using square brackets and the → symbol | [File] → [Open Folder] → [Select Project File]
+
+Menu & Button Sequence: Menu and Buttons are enclosed with square brackets. The → symbol indicates the flow of menu or button click actions.	[Students] → [Higher Education] → [Start diagramming]
+
 
 ## Notes and Warning Messages
 
+Throughout this documentation, we will be using message blocks to alert you to any relevant or important information. The types of message block you will see, in order of most to least important, are:
+
+!!! danger
+    Indicates actions that may cause an error or lead to future problems
+
+!!! warning
+    Indicates actions that require caution or prior reading
+
+!!! info
+    Indicates additional information or tips
+
+!!! success
+    Indicates what a successful example looks like
