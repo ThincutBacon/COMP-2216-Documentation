@@ -67,5 +67,6 @@ By the end of this section you will have successfully learned to:
 - Create and style elements.
 - Manipulate assets.
 
-Great work!
+!!! success "Success"
+    Great work! Now you can move on to the next section, Prototyping! You will learn all the basics to excel in prototyping design!
 
