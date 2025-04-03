@@ -16,9 +16,9 @@ theme:
   font:
     text: Roboto
     code: Source Code Pro
-  icon:
-    admonition:
-      <type>: <icon>
+icon:
+  admonition:
+    <type>: <icon>
   palette: 
     # Palette toggle for light mode'
     - scheme: default

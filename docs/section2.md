@@ -50,7 +50,7 @@ We will learn how to use tools in Figma to manipulate your workspace catered tow
     Follow similar steps above to customize these shapes. -->
 
 ## Conclusion
-By the en of this section you will have successfully learned to:
+By the end of this section you will have successfully learned to:
 - [x] Navigate Figma Design's workspace.
 - [x] Create and style elements.
 - [x] Manipulate assets.
