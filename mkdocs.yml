@@ -1,5 +1,9 @@
 site_name: Figma Documentation
 site_url: https://test.example
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 nav: 
   - Home: index.md
   - Set Up Project: section1.md
