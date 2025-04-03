@@ -36,8 +36,8 @@ We will learn how to use tools in Figma to manipulate your workspace catered tow
     - Select the item to resize and activate the Scale tool. 
     - Drag corners to adjust the size
 
-    !!! info inline end "Shortcut"
-        Hold `Shift` to maintain proportions during scaling
+!!! info inline end "Shortcut"
+    Hold `Shift` to maintain proportions during scaling
 
 ## Creating a Shape
 1. Click the Rectangle Tool from the toolbar.
