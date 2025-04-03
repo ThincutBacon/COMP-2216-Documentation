@@ -30,7 +30,7 @@ We will learn how to use tools in Figma to manipulate your workspace catered tow
     ![Drag item to move](./images/dragmove.png)
 
 2. **Hand Tool**:
-![Hand tool](./images/handtool.png)
+    ![Hand tool](./images/handtool.png)
     - Mouse: Use the Hand Tool to drag your camera view across the workspace. Hold down the middle mouse button to activate the tool.
     - Touchpad: Tap and drag using two fingers to pan across the workspace.
 
@@ -39,6 +39,7 @@ We will learn how to use tools in Figma to manipulate your workspace catered tow
     - Touchpad: Pinch outwards to zoom in and pinch inwards to zoom out. 
 
 4. **Scaling Items**:
+    ![Scale tool](./images/scaletool.png)
     - Select the item to resize and activate the Scale tool. 
     - Drag corners to adjust the size
 
