@@ -1,5 +1,14 @@
-site_name: My Docs
+site_name: Figma Documentation
 site_url: https://test.example
+nav: 
+  - Home: docs/index.md
+  - Set Up Project: docs/section1.md
+  - Navigating Toolbar and Creating Shapes: docs/section2.md
+  - Prototyping: docs/section3.md
+  - Troubleshooting: docs/troubleshooting.md
+  - Glossary:
+
+
 theme:
   name: material
   font:

@@ -41,3 +41,17 @@ We will learn how to use tools in Figma to manipulate your workspace catered tow
 
 
 ## Creating a Shape
+1. Click the Rectangle Tool from the toolbar.
+2. Navigate to your workspace frame, click, then drag to draw a rectangle.
+3. Using the Scale tool, click and drag the corners of the rectangle to resize it
+4. Hold `Shift` to maintain consist proportions (i.e. for squares)
+5. Access the Properties Panel to:
+    - change the fill colour,
+    - Apply strokes or outlines to the shape,
+    - Add effects.
+> ℹ️ **Click the dropdown arrow beside the rectangle tool to access additional shape options *(i.e. polygon, ellipse)***
+> Follow similar steps above to customize these shapes.
+
+## Conclusion
+By the en of this section you will have successfully learned to:
+- ✅ 
