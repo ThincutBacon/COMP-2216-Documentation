@@ -30,6 +30,7 @@ We will learn how to use tools in Figma to manipulate your workspace catered tow
     ![Drag item to move](./images/dragmove.png)
 
 2. **Hand Tool**:
+![Hand tool](./images/handtool.png)
     - Mouse: Use the Hand Tool to drag your camera view across the workspace. Hold down the middle mouse button to activate the tool.
     - Touchpad: Tap and drag using two fingers to pan across the workspace.
 
