@@ -26,6 +26,8 @@ We will learn how to use tools in Figma to manipulate your workspace catered tow
     1. Select an item within your workspace
     ![Move tool on toolbar](./images/movetool.png)
     2. Drag the selected item to reposition it somewhere else in your workspace.
+    ![click item to move](./images/clickmove.png)
+    ![Drag item to move](./images/dragmove.png)
 
 2. **Hand Tool**:
     - Mouse: Use the Hand Tool to drag your camera view across the workspace. Hold down the middle mouse button to activate the tool.
