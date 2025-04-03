@@ -12,6 +12,18 @@ Observe the toolbar located at the bottom of the screen in the Figma workspace. 
 
 2. The second group contains tools for creating and customizing design elements.
 
+## Creating a Shape
+1. Click the Rectangle Tool from the toolbar.
+2. Navigate to your workspace frame, click, then drag to draw a rectangle.
+3. Using the Scale tool, click and drag the corners of the rectangle to resize it
+4. Hold `Shift` to maintain consist proportions (i.e. for squares)
+5. Access the Properties Panel to:
+    - change the fill colour,
+    - Apply strokes or outlines to the shape,
+    - Add effects.
+    
+!!! info "Click the dropdown arrow beside the rectangle tool to access additional shape options (i.e. polygon, ellipse)"
+    Follow similar steps above to customize these shapes.
 
 ## Manipulating the Workspace
 We will learn how to use tools in Figma to manipulate your workspace catered towards your devices. 
@@ -30,6 +42,7 @@ We will learn how to use tools in Figma to manipulate your workspace catered tow
     ![Drag item to move](./images/dragmove.png)
 
 2. **Hand Tool**:
+    
     - ![Hand tool](./images/handtool.png)
     - Mouse: Use the Hand Tool to drag your camera view across the workspace. Hold down the middle mouse button to activate the tool.
     - Touchpad: Tap and drag using two fingers to pan across the workspace.
@@ -47,19 +60,6 @@ We will learn how to use tools in Figma to manipulate your workspace catered tow
 
 !!! info "Shortcut for squares!"
     Hold `Shift` to maintain proportions during scaling
-
-## Creating a Shape
-1. Click the Rectangle Tool from the toolbar.
-2. Navigate to your workspace frame, click, then drag to draw a rectangle.
-3. Using the Scale tool, click and drag the corners of the rectangle to resize it
-4. Hold `Shift` to maintain consist proportions (i.e. for squares)
-5. Access the Properties Panel to:
-    - change the fill colour,
-    - Apply strokes or outlines to the shape,
-    - Add effects.
-    
-!!! info "Click the dropdown arrow beside the rectangle tool to access additional shape options (i.e. polygon, ellipse)"
-    Follow similar steps above to customize these shapes.
 
 ## Conclusion
 By the end of this section you will have successfully learned to:
