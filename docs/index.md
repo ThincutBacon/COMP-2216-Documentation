@@ -33,9 +33,9 @@ This documentation assumes you have access to the following:
 
 The main sections of this documentation are as follows:  
 
-* Setting up a new project  
-* Drawing elements and creating assets  
-* Creating a prototype  
+* [Setting up a new project](.\section1.md)  
+* [Drawing elements and creating assets](.\section2.md)  
+* [Creating a prototype](.\section3.md)  
 
 
 ## Typographical Conventions

@@ -1,4 +1,4 @@
-# Set Up Project 
+# Setting Up Your Project
 
 ## Overview
 
@@ -104,5 +104,6 @@ By the end of this section you will have successfully learned to:
 * Create a new project file.  
 * Set-up your frame.  
 
-Great work!
+!!! success "Success"  
+    Great work! Now you can move on to the fun part, creating your design! You will learn how to use all sorts of tools Figma provides to create the design you want!  
 
