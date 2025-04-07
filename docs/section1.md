@@ -14,7 +14,7 @@ First off, go to [Figma.com](https://www.figma.com/login?is_not_gen_0=true&resou
 
 !!! success "Figma Dashboard"
     You should be seeing the following:  
-    ![User dashboard](./image/dashboard.png "User dashboard") 
+    ![User dashboard](./images/newdashboard.png "User dashboard"){: .center-image} 
 
 ## Create your team
 
@@ -27,7 +27,7 @@ To create a new team, look to the left-hand side of your screen and **Click** [U
 
 !!! info "Teams Selection Dropdown"
     If you are struggling to find the drop-down menu, see the following:
-    ![Team selection dropdown](./images/newteam.png "Team selection dropdown"){ : .images }  
+    ![Team selection dropdown](./images/newteam.png "Team selection dropdown"){: .center-image}
 
 1. After you click [+ Create new], you will be redirected to the Step 1 of the team creation page. Simply **Type** in your team name and **Click** [Create Team] to go to Step 2.
 
