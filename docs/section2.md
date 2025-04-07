@@ -72,9 +72,9 @@ To efficiently design and reuse components, you can create assets.
     Follow Creating a Shape steps above for more customization.
 2. Organize elements by grouping related items
 3. Right-click and select "Group"
+![Group Elements](./images/groupelements.png)
 !!! info "Group elements together shortcut"
     Select multiple elements and press `Ctrl + G` (Windows) or `Cmd + G` (Mac).
-    ![Group Elements](./images/groupelements.png)
 4. Right-click again and select `Create Component`
     ![Create Component](./images/createcomponent.png)
 5. Access your components from the `Assets ` panel, on the left hand of the screen.
