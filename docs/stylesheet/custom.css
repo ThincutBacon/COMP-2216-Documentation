@@ -1,5 +1,7 @@
 .center_image {
+    max-height: 500px;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    border-radius: 10px;
 }
