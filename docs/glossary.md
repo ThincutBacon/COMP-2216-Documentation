@@ -1,7 +1,5 @@
 # Glossary
 
-# Glossary
-
 | Term                     | Definition                                                                                                   |
 |--------------------------|--------------------------------------------------------------------------------------------------------------|
 | **Asset**                 | A reusable design component, such as buttons or icons, that can be dragged and dropped into the workspace.     |
