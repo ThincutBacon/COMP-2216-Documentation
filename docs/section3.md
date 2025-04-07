@@ -45,6 +45,7 @@ This process allows you to simulate interactions, such as clicks or hovers, and 
 
 ## Conclusion
 By the end of this section, you will have successfully learned to:  
+
 * [x] Duplicate frames to create multiple screens.  
 * [x] Use the Prototype tab to set up connections between frames.  
 * [x] Adjust settings for interactive elements.  
