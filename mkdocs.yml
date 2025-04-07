@@ -15,6 +15,8 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.blocks.caption
+  - pymdownx.tasklist:
+      custom_checkbox: true
 theme:
   name: material
   logo: '.\images\figmalogo.png'

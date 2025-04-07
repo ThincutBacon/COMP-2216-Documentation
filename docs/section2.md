@@ -92,9 +92,9 @@ To efficiently design and reuse components, you can create assets.
 
 ## Conclusion
 By the end of this section you will have successfully learned to:  
-- Navigate Figma Design's workspace.  
-- Create and style elements.  
-- Manipulate assets.  
+- [x] Navigate Figma Design's workspace.  
+- [x] Create and style elements.  
+- [x] Manipulate assets.  
 
 !!! success "Success"  
     Great work! Now you can move on to the next section, Prototyping! You will learn all the tools to excel in prototyping design!  

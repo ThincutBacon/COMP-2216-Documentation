@@ -100,9 +100,9 @@ Once you have selected the frame tool, look to the the panel on your right. You 
 
 By the end of this section you will have successfully learned to:  
 
-* Create a new team.  
-* Create a new project file.  
-* Set-up your frame.  
+* [x] Create a new team.  
+* [x] Create a new project file.  
+* [x] Set-up your frame.  
 
 !!! success "Success"  
     Great work! Now you can move on to the fun part, creating your design! You will learn how to use all sorts of tools Figma provides to create the design you want!  
