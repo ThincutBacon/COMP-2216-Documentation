@@ -22,27 +22,27 @@ We will learn how to use tools in Figma to manipulate your workspace catered tow
     - Scale Tool: `Shift + S`
 
 1. **Move Tool**:
-    - Select an item within your workspace
+    1. Select an item within your workspace
     ![Move tool on toolbar](./images/movetool.png)
-    - Drag the selected item to reposition it somewhere else in your workspace.
+    2. Drag the selected item to reposition it somewhere else in your workspace.
     ![click item to move](./images/clickmove.png)
     ![Drag item to move](./images/dragmove.png)
 
 2. **Hand Tool**:
     
     - ![Hand tool](./images/handtool.png)
-    - Mouse: Use the Hand Tool to drag your camera view across the workspace. Hold down the middle mouse button to activate the tool.
-    - Touchpad: Tap and drag using two fingers to pan across the workspace.
+    1. Mouse: Use the Hand Tool to drag your camera view across the workspace. Hold down the middle mouse button to activate the tool.
+    2. Touchpad: Tap and drag using two fingers to pan across the workspace.
 
 3. **Zooming**:
-    - Mouse: Scroll the mouse wheel to zoom in or out.
-    - Touchpad: Pinch outwards to zoom in and pinch inwards to zoom out. 
+    1. Mouse: Scroll the mouse wheel to zoom in or out.
+    2. Touchpad: Pinch outwards to zoom in and pinch inwards to zoom out. 
 
 4. **Scaling Items**:
     - ![Scale tool](./images/scaletool.png)
-    - Select the item to resize and activate the Scale tool. 
+    1. Select the item to resize and activate the Scale tool. 
     ![Select item](./images/scalenot.png)
-    - Drag corners to adjust the size
+    2. Drag corners to adjust the size
     ![Drag corner item](./images/scaleup.png)
 
 !!! info "Shortcut for squares!"
@@ -50,13 +50,17 @@ We will learn how to use tools in Figma to manipulate your workspace catered tow
 
 ## Creating a Shape
 1. Click the Rectangle Tool from the toolbar.
-![Rectangle Tool](./images/rectangletool.png)
+!!! success "Rectangle Tool"
+    ![Rectangle Tool](./images/rectangletool.png)
 2. Navigate to your workspace frame, click, then drag to draw a rectangle.
-![Draw Rectangle](./images/drawrectangle.png)
+!!! success "Drawing a Rectangle"
+    ![Draw Rectangle](./images/drawrectangle.png)
 3. Using the Scale tool, click and drag the corners of the rectangle to resize it
-![Resize Shape](./images/resizeshape.png)
+!!! success "Resizing Shapes"
+    ![Resize Shape](./images/resizeshape.png)
 4. Hold `Shift` to maintain consist proportions (i.e. for squares)
 5. Access the Properties Panel to change the fill colour to #ABEFBD.
+!!! success "Figma Properties Panel"
     ![Properties Panel](./images/properties-panel.png)
     
 !!! info "Click the dropdown arrow beside the rectangle tool to access additional shape options (i.e. polygon, ellipse)"
@@ -73,9 +77,11 @@ To efficiently design and reuse components, you can create assets.
 !!! info "Group elements together shortcut"
     Select multiple elements and press `Ctrl + G` (Windows) or `Cmd + G` (Mac).
 4. Name each layer to keep the design organized.
-![Group Elements](./images/groupelements.png)
+!!! success "Grouping Elements"
+    ![Group Elements](./images/groupelements.png)
 5. Access your components from the `Assets ` panel, on the left hand of the screen.
-![Assets Panel](./images/assetspanel.png)
+!!! success "Assets Panel"
+    ![Assets Panel](./images/assetspanel.png)
 6. Drag and drop an drop into your design workspace. 
 
 ## Conclusion
