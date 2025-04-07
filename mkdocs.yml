@@ -12,6 +12,9 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
 theme:
   name: material
   font:
@@ -37,4 +40,4 @@ theme:
         name: Switch to light mode
 copyright: Copyright &copy; 2025 Kiara Cherry and Kanon Nishiyama
 extra_css:
-  - 'stylesheet/custom.css'
+  - '.\stylesheet\custom.css'
