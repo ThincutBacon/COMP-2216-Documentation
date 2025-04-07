@@ -8,8 +8,8 @@ Welcome! This documentation will be introducing you to the basic's of using [Fig
 
 This documentation is targeted towards the following users:
 
-* Beginner level developers who want to design an application  
-* Small teams looking for a way to prototype their designs
+* Beginner level developers who want to create a design for their application  
+* Small development teams looking for a way to prototype their design
 * 1st term BCIT Computer Systems Technology (CST) students  
 
 
@@ -18,7 +18,7 @@ This documentation is targeted towards the following users:
 This documentation assumes you have knowledge on the following:  
 
 * Basic computer manipulation using a keyboard and mouse
-* Comfortable using simple keyboard commands (`CTRL + C, etc.`)
+* Comfortable using simple keyboard commands (`CTRL + C, CTRL + V, etc.`)
 
 
 ## Software Requirements
