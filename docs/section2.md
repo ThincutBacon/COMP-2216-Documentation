@@ -1,4 +1,4 @@
-# Navigating the Toolbar and Creating Shapes
+# Drawing Elements and Creating Assets
 
 ## Overview
 This section will focus on the implementation of Figma's tools to design and manipulate elements. You will learn 
