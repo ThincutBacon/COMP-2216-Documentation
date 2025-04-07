@@ -56,12 +56,10 @@ We will learn how to use tools in Figma to manipulate your workspace catered tow
 !!! success "Drawing a Rectangle"
     ![Draw Rectangle](./images/drawrectangle.png)
 3. Using the Scale tool, click and drag the corners of the rectangle to resize it
-!!! success "Resizing Shapes"
-    ![Resize Shape](./images/resizeshape.png)
 4. Hold `Shift` to maintain consist proportions (i.e. for squares)
 5. Access the Properties Panel to change the fill colour to #ABEFBD.
 !!! success "Figma Properties Panel"
-    ![Properties Panel](./images/properties-panel.png)
+    ![Properties Panel](./images/propertiespanel.png)
     
 !!! info "Click the dropdown arrow beside the rectangle tool to access additional shape options (i.e. polygon, ellipse)"
     Follow similar steps above to customize these shapes.
@@ -76,13 +74,14 @@ To efficiently design and reuse components, you can create assets.
 3. Right-click and select "Group"
 !!! info "Group elements together shortcut"
     Select multiple elements and press `Ctrl + G` (Windows) or `Cmd + G` (Mac).
-4. Name each layer to keep the design organized.
-!!! success "Grouping Elements"
     ![Group Elements](./images/groupelements.png)
+4. Right-click again and select `Create Component`
+    ![Create Component](./images/createcomponent.png)
 5. Access your components from the `Assets ` panel, on the left hand of the screen.
 !!! success "Assets Panel"
     ![Assets Panel](./images/assetspanel.png)
 6. Drag and drop an drop into your design workspace. 
+    ![Drag and drop component](./images/dragasset.png)
 
 ## Conclusion
 By the end of this section you will have successfully learned to:
