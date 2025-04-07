@@ -1,0 +1,769 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://thincutbacon.github.io/COMP-2216-Documentation/section2/">
+      
+      
+        <link rel="prev" href="../section1/">
+      
+      
+        <link rel="next" href="../section3/">
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.11">
+    
+    
+      
+        <title>Drawing Elements and Creating Assets - Figma Documentation</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.4af4bdda.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CSource+Code+Pro:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Source Code Pro"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../stylesheet/custom.css">
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="lime" data-md-color-accent="green">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#drawing-elements-and-creating-assets" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="Figma Documentation" class="md-header__button md-logo" aria-label="Figma Documentation" data-md-component="logo">
+      
+  <img src="../images/figmalogo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Figma Documentation
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Drawing Elements and Creating Assets
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="lime" data-md-color-accent="green"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="amber" data-md-color-accent="deep-orange"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="Figma Documentation" class="md-nav__button md-logo" aria-label="Figma Documentation" data-md-component="logo">
+      
+  <img src="../images/figmalogo.png" alt="logo">
+
+    </a>
+    Figma Documentation
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../section1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Setting Up Your Project
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    Drawing Elements and Creating Assets
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    Drawing Elements and Creating Assets
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#overview" class="md-nav__link">
+    <span class="md-ellipsis">
+      Overview
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#navigating-the-toolbar" class="md-nav__link">
+    <span class="md-ellipsis">
+      Navigating the Toolbar
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#manipulating-the-workspace" class="md-nav__link">
+    <span class="md-ellipsis">
+      Manipulating the Workspace
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#creating-a-shape" class="md-nav__link">
+    <span class="md-ellipsis">
+      Creating a Shape
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#creating-assets" class="md-nav__link">
+    <span class="md-ellipsis">
+      Creating Assets
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#conclusion" class="md-nav__link">
+    <span class="md-ellipsis">
+      Conclusion
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../section3/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Prototyping
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../troubleshooting/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Troubleshooting
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../glossary/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Glossary
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#overview" class="md-nav__link">
+    <span class="md-ellipsis">
+      Overview
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#navigating-the-toolbar" class="md-nav__link">
+    <span class="md-ellipsis">
+      Navigating the Toolbar
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#manipulating-the-workspace" class="md-nav__link">
+    <span class="md-ellipsis">
+      Manipulating the Workspace
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#creating-a-shape" class="md-nav__link">
+    <span class="md-ellipsis">
+      Creating a Shape
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#creating-assets" class="md-nav__link">
+    <span class="md-ellipsis">
+      Creating Assets
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#conclusion" class="md-nav__link">
+    <span class="md-ellipsis">
+      Conclusion
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="drawing-elements-and-creating-assets">Drawing Elements and Creating Assets</h1>
+<h2 id="overview">Overview</h2>
+<p>This section will focus on the implementation of Figma's tools to design and manipulate elements. You will learn 
+how to navigate the toolbar, create shapes, and apply styling to customize assets, ensuring you will create designs that stand out.  </p>
+<div class="admonition warning">
+<p class="admonition-title">Setting up project</p>
+<p>This section requires an already made workspace, which is introduced in section one. Please check 
+out <a href=".\section1.md">Setting Up Your Workspace</a> before you start this section.</p>
+</div>
+<h2 id="navigating-the-toolbar">Navigating the Toolbar</h2>
+<p>The toolbar is located at the bottom of the screen in the Figma workspace. It contains groups of useful tools for designing.  </p>
+<p><img alt="Groups in toolbar" class="center_image" src="../images/toolbar.png" title="Groups in toolbar" />  </p>
+<ol>
+<li>The first group includes tools to manipulate the workspace  </li>
+<li>The second group contains tools for creating and customizing design elements.  </li>
+</ol>
+<h2 id="manipulating-the-workspace">Manipulating the Workspace</h2>
+<p>We will learn how to use tools in Figma to manipulate your workspace catered towards your devices.  </p>
+<div class="admonition info">
+<p class="admonition-title">Keyboard Shortcuts</p>
+<ul>
+<li>Move Tool: <code>V</code>  </li>
+<li>Hand Tool: <code>H</code>  </li>
+<li>Zoom In/Out: <code>Ctrl + +/-</code> (Windows) or  <code>Cmd + +/-</code> (Mac)  </li>
+<li>Scale Tool: <code>Shift + S</code>  </li>
+</ul>
+</div>
+<ol>
+<li>
+<p><strong>Move Tool</strong>:  </p>
+<ol>
+<li>Select an item within your workspace<br />
+<img alt="Move tool on toolbar" class="center_image" src="../images/movetool.png" title="Move tool on toolbar" />  </li>
+<li>Drag the selected item to reposition it somewhere else in your workspace.<br />
+<img alt="Click item to move" class="center_image" src="../images/clickmove.png" title="Click item to move" /><br />
+<img alt="Drag item to move" class="center_image" src="../images/dragmove.png" title="Drag item to move" />  </li>
+</ol>
+</li>
+<li>
+<p><strong>Hand Tool</strong>:<br />
+<img alt="Hand tool" class="center_image" src="../images/handtool.png" title="Hand tool" />  </p>
+<ol>
+<li>Mouse: Use the Hand Tool to drag your camera view across the workspace. Hold down the middle mouse button to activate the tool.  </li>
+<li>Touchpad: Tap and drag using two fingers to pan across the workspace.  </li>
+</ol>
+</li>
+<li>
+<p><strong>Zooming</strong>:  </p>
+<ol>
+<li>Mouse: Scroll the mouse wheel to zoom in or out.  </li>
+<li>Touchpad: Pinch outwards to zoom in and pinch inwards to zoom out.  </li>
+</ol>
+</li>
+<li>
+<p><strong>Scaling Items</strong>:  </p>
+<ul>
+<li><img alt="Scale tool" class="center_image" src="../images/scaletool.png" title="Scale tool" />  </li>
+<li>Select the item to resize and activate the Scale tool.<br />
+<img alt="Select item" class="center_image" src="../images/scalenot.png" title="Select item" />  </li>
+<li>Drag corners to adjust the size<br />
+<img alt="Drag corner item" class="center_image" src="../images/scaleup.png" title="Drag corner item" />  </li>
+</ul>
+</li>
+</ol>
+<div class="admonition info">
+<p class="admonition-title">Shortcut for squares!</p>
+<p>Hold <code>Shift</code> to maintain proportions during scaling  </p>
+</div>
+<h2 id="creating-a-shape">Creating a Shape</h2>
+<ol>
+<li>Click the Rectangle Tool from the toolbar.<br />
+<img alt="Rectangle Tool" class="center_image" src="../images/rectangletool.png" title="Rectangle Tool" />  </li>
+<li>Navigate to your workspace frame, click, then drag to draw a rectangle.<br />
+<img alt="Draw Rectangle" class="center_image" src="../images/drawrectangle.png" title="Draw Rectangle" />  </li>
+<li>Using the Scale tool, click and drag the corners of the rectangle to resize it  </li>
+<li>Hold <code>Shift</code> to maintain consist proportions (i.e. for squares)  </li>
+<li>Access the Properties Panel to change the fill colour to #ABEFBD.<br />
+<img alt="Properties Panel" class="center_image" src="../images/propertiespanel.png" title="Properties Panel" />  </li>
+</ol>
+<div class="admonition info">
+<p class="admonition-title">Click the dropdown arrow beside the rectangle tool to access additional shape options (i.e. polygon, ellipse)</p>
+<p>Follow similar steps above to customize these shapes.  </p>
+</div>
+<h2 id="creating-assets">Creating Assets</h2>
+<p>To efficiently design and reuse components, you can create assets.  </p>
+<ol>
+<li>Start by creating a basic shapes, this will form the basis of your asset.  </li>
+</ol>
+<div class="admonition info">
+<p class="admonition-title">Info</p>
+<p>Follow Creating a Shape steps above for more customization.  </p>
+</div>
+<ol>
+<li>Organize elements by grouping related items  </li>
+<li>Right-click and select "Group"<br />
+<img alt="Group Elements" class="center_image" src="../images/groupelements.png" title="Group Elements" />  </li>
+</ol>
+<div class="admonition info">
+<p class="admonition-title">Group elements together shortcut</p>
+<p>Select multiple elements and press <code>Ctrl + G</code> (Windows) or <code>Cmd + G</code> (Mac).  </p>
+</div>
+<ol>
+<li>Right-click again and select <code>Create Component</code><br />
+<img alt="Create Component" class="center_image" src="../images/createcomponent.png" title="Create Component" />  </li>
+<li>Access your components from the <code>Assets</code> panel, on the left hand of the screen.<br />
+<img alt="Assets Panel" class="center_image" src="../images/assetspanel.png" title="Assets Panel" />  </li>
+<li>Drag and drop an drop into your design workspace. <br />
+<img alt="Drag and drop component" class="center_image" src="../images/dragasset.png" title="Drag and drop component" />  </li>
+</ol>
+<h2 id="conclusion">Conclusion</h2>
+<p>By the end of this section you will have successfully learned to:<br />
+- Navigate Figma Design's workspace.<br />
+- Create and style elements.<br />
+- Manipulate assets.  </p>
+<div class="admonition success">
+<p class="admonition-title">Success</p>
+<p>Great work! Now you can move on to the next section, Prototyping! You will learn all the tools to excel in prototyping design!  </p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Footer" >
+        
+          
+          <a href="../section1/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Setting Up Your Project">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              <div class="md-ellipsis">
+                Setting Up Your Project
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../section3/" class="md-footer__link md-footer__link--next" aria-label="Next: Prototyping">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              <div class="md-ellipsis">
+                Prototyping
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2025 Kiara Cherry and Kanon Nishiyama
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      <script id="__config" type="application/json">{"base": "..", "features": ["navigation.footer"], "search": "../assets/javascripts/workers/search.f8cc74c7.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.c8b220af.min.js"></script>
+      
+    
+  </body>
+</html>
