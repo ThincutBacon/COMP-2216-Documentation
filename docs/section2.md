@@ -3,6 +3,10 @@
 ## Overview
 This section will focus on the implementation of Figma's tools to design and manipulate elements. You will learn how to navigate the toolbar, create shapes, and apply styling to customize assets, ensuring you will create designs that stand out.
 
+!!! warning "Setting up project"
+    This section requires an already made workspace, which is introduced in section one. Please check out creating and setting up a Figma file before you start this section.
+    
+
 ## Navigating the Toolbar
 The toolbar is located at the bottom of the screen in the Figma workspace. It contains groups of useful tools for designing.
 
@@ -50,16 +54,13 @@ We will learn how to use tools in Figma to manipulate your workspace catered tow
 
 ## Creating a Shape
 1. Click the Rectangle Tool from the toolbar.
-!!! success "Rectangle Tool"
-    ![Rectangle Tool](./images/rectangletool.png)
+![Rectangle Tool](./images/rectangletool.png)
 2. Navigate to your workspace frame, click, then drag to draw a rectangle.
-!!! success "Drawing a Rectangle"
-    ![Draw Rectangle](./images/drawrectangle.png)
+![Draw Rectangle](./images/drawrectangle.png)
 3. Using the Scale tool, click and drag the corners of the rectangle to resize it
 4. Hold `Shift` to maintain consist proportions (i.e. for squares)
 5. Access the Properties Panel to change the fill colour to #ABEFBD.
-!!! success "Figma Properties Panel"
-    ![Properties Panel](./images/propertiespanel.png)
+![Properties Panel](./images/propertiespanel.png)
     
 !!! info "Click the dropdown arrow beside the rectangle tool to access additional shape options (i.e. polygon, ellipse)"
     Follow similar steps above to customize these shapes.
@@ -72,16 +73,15 @@ To efficiently design and reuse components, you can create assets.
     Follow Creating a Shape steps above for more customization.
 2. Organize elements by grouping related items
 3. Right-click and select "Group"
+![Group Elements](./images/groupelements.png)
 !!! info "Group elements together shortcut"
     Select multiple elements and press `Ctrl + G` (Windows) or `Cmd + G` (Mac).
-    ![Group Elements](./images/groupelements.png)
 4. Right-click again and select `Create Component`
-    ![Create Component](./images/createcomponent.png)
+![Create Component](./images/createcomponent.png)
 5. Access your components from the `Assets ` panel, on the left hand of the screen.
-!!! success "Assets Panel"
-    ![Assets Panel](./images/assetspanel.png)
+![Assets Panel](./images/assetspanel.png)
 6. Drag and drop an drop into your design workspace. 
-    ![Drag and drop component](./images/dragasset.png)
+![Drag and drop component](./images/dragasset.png)
 
 ## Conclusion
 By the end of this section you will have successfully learned to:
