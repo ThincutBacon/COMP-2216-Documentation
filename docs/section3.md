@@ -9,7 +9,7 @@ In this section, you will learn how to draw connections between frames to create
 3. Paste the frame by pressing `Ctrl + V` (Windows) or `Cmd + V` (Mac)
 !!! success "Success"
     Here is what a duplicated frame should look like:
-    ![Duplicate Frame](./images/duplicateframe.png)
+    ![Duplicate Frame](./images/duplicateframe.png "Duplicate Frame"){.center_image}
 
 ## Navigating to the Prototype Tab
 1. Find the Prototype tab on the right-hand properties panel
