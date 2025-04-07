@@ -45,10 +45,10 @@ This process allows you to simulate interactions, such as clicks or hovers, and 
 
 ## Conclusion
 By the end of this section, you will have successfully learned to:  
-- [x] Duplicate frames to create multiple screens.  
-- [x] Use the Prototype tab to set up connections between frames.  
-- [x] Adjust settings for interactive elements.  
-- [x] Select device type and view mode to accurately test prototypes.  
+* [x] Duplicate frames to create multiple screens.  
+* [x] Use the Prototype tab to set up connections between frames.  
+* [x] Adjust settings for interactive elements.  
+* [x] Select device type and view mode to accurately test prototypes.  
 
 !!! success "Success"  
     Congrats! You have now learned to create an interactive prototype with clickable elements.  
