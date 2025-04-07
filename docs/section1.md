@@ -105,5 +105,5 @@ By the end of this section you will have successfully learned to:
 * [x] Set-up your frame.  
 
 !!! success "Success"  
-    Great work! Now you can move on to the fun part, creating your design! You will learn how to use all sorts of tools Figma provides to create the design you want!  
+    Great work! Now that you have finished the setup, you can move on to the fun part, creating your design! You will learn how to use all sorts of tools Figma provides to create the design you want!  
 
