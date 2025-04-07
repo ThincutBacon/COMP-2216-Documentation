@@ -1,7 +1,5 @@
 # Troubleshooting
 
-# Figma Troubleshooting Guide
-
 | **Symptoms**                               | **Probable Cause**                                                   | **Action**                                                                                                                                                               |
 |--------------------------------------------|----------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Figma is not loading                       | Internet connection issues                                            | Ensure you have a stable internet connection. Refresh your browser or restart the application if necessary.                                                              |
